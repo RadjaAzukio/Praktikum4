@@ -36,6 +36,27 @@ menggunakan statement if.
 - Setelah selesai membuat kondisi, ekspresikan hasil kondisi yang telah kita buat
 ![Gambar1](pk4/lab3.2.png)
 ## Latihan2.py
-![Gambar1](pk4/
+![Gambar1](pk4/lab3.3.png)
+- Pertama-tama, kita menggunakan maximum yang dioperasikan sebagai :
+```
+max = 0
+```
+- Lalu menggunakan kondisi while dengan ketetapan yang pasti
+- Kita menggunakan variabel x yang dioperasikan sebagai :
+```
+x = int(input("Masukkan bilangan:"))
+```
+- Memberi kondisi kepada max jika :
+```
+if Max < x:
+  Max = x
+```
+- Dan variabel x diberi kondisi juga
+```
+if x==0:
+```
+- Seletah kondisi akhir, kita menggunakan break untuk memberhentikan adanya pengulangan 
+- Ekspresikan hasil statent dan kondisi yang telah dibuat
+![Gambar1](pk4/lab3.4.png)
 ## Pemograman1.py
 ![Gambar1](pk3/
