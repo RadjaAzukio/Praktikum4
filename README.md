@@ -21,6 +21,11 @@ menggunakan statement if.
 ![Gambar1](pk4/lab2.1.png)
 - Uraikan langkah atau algoritmanya pada file README.md, sertakan juga flowchart dan screenshot hasil eksekusi program. Tampilkan 3 kondisi inputan data.
 ![Gambar1](pk4/lab2.2.png)
+- Jadi kita disuruh untuk mencari nilai terbesar dari ketiga nilai variabel
+- Pertama-tama, kita menentukan 3 variabel terlebih dahulu
+- Setelah dtentukan, ekpresikan dengan memasukkan inputan
+- Lalu kita membandingkan mana bilangan yang terbesar dari ketiga nilai variabel
+- Ekpesikan dengan membuat satu statemen dan ekpresi pada setiap variabel
 # Lab 3 
 ## Latihan1.py
 ![Gambar1}(pk4/
