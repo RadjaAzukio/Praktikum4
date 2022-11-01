@@ -19,7 +19,7 @@ menggunakan statement if.
 ## Tugas Praktikum 2
 - Buat program sederhana dengan input tiga buah bilangan, dari ketiga bilangan tersebut tampilkan bilangan terbesarnya. Gunakan statement if.
 ![Gambar1](pk4/
-- Menguraikan langkah-langkah dan algoritma dari menentukan 3 variabel yang berbeda dan urutkan nilai dari ketiga variabel tersebut dari yang terkecil
+- Uraikan langkah atau algoritmanya pada file README.md, sertakan juga flowchart dan screenshot hasil eksekusi program. Tampilkan 3 kondisi inputan data.
 ![Gambar1](pk4/
 # Lab 3 
 ## Latihan1.py
