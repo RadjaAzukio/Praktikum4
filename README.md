@@ -59,4 +59,19 @@ if x==0:
 - Ekspresikan hasil statent dan kondisi yang telah dibuat
 ![Gambar1](pk4/lab3.4.png)
 ## Pemograman1.py
-![Gambar1](pk3/
+![Gambar1](pk4/lab3.5.png)
+- Pertama-tama, kita tentukan variabel dengan diberi nilai semisal :
+```
+a = 100000000
+```
+- Lalu kita menggunakan kondisi dimana akan dilakukan statement berulang selama 9 kali dengan : 
+```
+for x in range (1, 9)
+```
+- Pada bulan pertama dan kedua, laba yang didapat yaitu 0%
+- Bulan kedua dan ketiga, laba yang didapat sebesar 1%
+- Bulan keempat sampai dengan bulan ketujuh, laba yang didapat mengalami kenaikan 4% menjadi 5%
+- Bulan kedelapan mengalami penurunan sebesar 3%, mendapat laba sebesar 3%
+- Setelah mengetahui laba selama 8 bulan, tambahkan semua untuk mendapatkan total laba selama 8 bulan
+- Lalu ekspresikan hasil statement dan kondisi yang telah dibuat
+![Gambar1](pk4/lab3.6.png)
