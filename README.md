@@ -28,7 +28,7 @@ menggunakan statement if.
 - Ekpesikan dengan membuat satu statemen dan ekpresi pada setiap variabel
 # Lab 3 
 ## Latihan1.py
-![Gambar1](pk4/lab3.1.pmg)
+![Gambar1](pk4/lab3.1.png)
 - Pertama-tama, Deklarasi dan beri inputan ke variabel dalam bentuk intreger. Saya menggunakan variabel N
 - Lalu menggunakan pengimport random untuk memberi nilai variabel secara acak
 - Memberi batasan dengan memberi variabel baru , jumlah yang bernilai 5 
