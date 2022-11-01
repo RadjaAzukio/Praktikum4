@@ -18,9 +18,9 @@ menggunakan statement if.
 # Lab 2
 ## Tugas Praktikum 2
 - Buat program sederhana dengan input tiga buah bilangan, dari ketiga bilangan tersebut tampilkan bilangan terbesarnya. Gunakan statement if.
-![Gambar1](pk4/
+![Gambar1](pk4/lab2.1.png)
 - Uraikan langkah atau algoritmanya pada file README.md, sertakan juga flowchart dan screenshot hasil eksekusi program. Tampilkan 3 kondisi inputan data.
-![Gambar1](pk4/
+![Gambar1](pk4/lab2.2.png)
 # Lab 3 
 ## Latihan1.py
 ![Gambar1}(pk4/
