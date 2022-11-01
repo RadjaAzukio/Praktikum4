@@ -34,7 +34,7 @@ menggunakan statement if.
 - Memberi batasan dengan memberi variabel baru , jumlah yang bernilai 5 
 - Membuat kondisi menggunakan if dengan range(jumlah)
 - Setelah selesai membuat kondisi, ekspresikan hasil kondisi yang telah kita buat
-![Gambar1}(pk4/lab3.2.png)
+![Gambar1](pk4/lab3.2.png)
 ## Latihan2.py
 ![Gambar1](pk4/
 ## Pemograman1.py
