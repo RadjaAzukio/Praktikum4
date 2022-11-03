@@ -9,7 +9,7 @@ menggunakan statement if.
 ![Gambar1](pk4/lab1.2.png)
 ## Tugas 3
 - Buat program dengan perulangan bertingkat (nested) for yang menghasilkan output sebagai berikut:
-![Gambar1](pk4/lab1.3.png)
+![Gambar1](pk4/)
 ## Tugas 4
 - Tampilkan n bilangan acak yang lebih kecil dari 0.5.
 - Nilai n diisi pada saat runtime
